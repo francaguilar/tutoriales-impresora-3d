@@ -1,11 +1,12 @@
-#Tutorial Slic3r
-#####(A fecha de escribir este tutorial es la versión 1.2.9)
+# Tutorial Slic3r
 
-##Descarga e instalación:
+##### (A fecha de escribir este tutorial es la versión 1.2.9)
+
+## Descarga e instalación:
 
 Dado que es software gratuito y de código abierto lo podemos bajar desde su web oficial:<http://slic3r.org/>
 
-##Primer inicio del programa:
+## Primer inicio del programa:
 
 La primera vez que iniciemos el programa nos saldrá un pequeño asistente para configurar inicialmente nuestra impresora, después vendrá el ajuste fino.
 Pasos:
